@@ -13,7 +13,7 @@ to the [2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk](http://
 and the [2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults](http://circ.ahajournals.org/content/circulationaha/129/25_suppl_2/S1.full.pdf). 
 
 
-## Documentation:
+## Documentation
 
 It's a single function.
 
